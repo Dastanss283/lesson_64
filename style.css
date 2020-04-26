@@ -1,0 +1,7 @@
+ul li.checked {
+    background: white;
+    text-decoration: line-through;
+    outline: none;
+}
+
+
